@@ -1,6 +1,7 @@
 # Winkel fest bei Dingens kpGrad; Polarisationswinkel 14 Grad 
-# FEHLER 100V WEGEN WHACK ALEX 
-Ordnung,U[V]
+# Fehler Spannung 1V Systematisch 
+#FEHLER 100V WEGEN WHACK ALEX 
+Minima_Ordnung,Spannung/V
 0,0
 1,730
 2,1480
